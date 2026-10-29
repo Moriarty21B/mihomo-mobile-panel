@@ -1,0 +1,12 @@
+* text=auto eol=lf
+*.bat text eol=crlf
+*.ps1 text eol=crlf
+*.go text eol=lf
+*.sh text eol=lf
+*.svg text eol=lf
+*.exe binary
+*.zip binary
+*.gz binary
+*.png binary
+*.jpg binary
+/installer/payload/mihomo-mobile binary
